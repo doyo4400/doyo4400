@@ -11,3 +11,9 @@ https://libgen.ee/ (library Genesis)
 Sci-hub (adress change regularly)
 
 http://www.fourtoutici.ac/
+
+
+# Unlock article
+Addon Firefox : Bypass paywall clean
+
+https://archive.ph/ (past a blocked URL in)
