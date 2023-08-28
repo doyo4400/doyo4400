@@ -17,3 +17,5 @@ http://www.fourtoutici.ac/
 Addon Firefox : Bypass paywall clean
 
 https://archive.ph/ (past a blocked URL in)
+
+https://12ft.io/
