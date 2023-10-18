@@ -19,3 +19,8 @@ Addon Firefox : Bypass paywall clean
 https://archive.ph/ (past a blocked URL in)
 
 https://12ft.io/
+
+# IA
+
+traduce a video in other language
+https://app.heygen.com/
